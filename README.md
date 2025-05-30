@@ -47,7 +47,7 @@ Render.py in thet folder will render the data in 3D. For rendering customization
 - Telemetry is designed to be identical to the one used on Flights 1 to 8.
 - somewhat customizable (fuel resource name, etc.)
 - if (contact with) a vehicle stage is lost, it will grey out the corresponding telemetry shortly after.
-
+- starship-cmn.ks can be useful for your own launch scripts
 
 
 
