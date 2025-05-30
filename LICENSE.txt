@@ -1,0 +1,6 @@
+Starship UI Expansion (c) 2025 by -Earth and Moon- is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+You are free to redistribute this program and its contents, but you have to credit me.
+Modifications (including, but not limited to, code changes and file renaming) and commercial use are not permitted.
+
+I am not liable to any launch failures or telemetry lags caused by this mod.
