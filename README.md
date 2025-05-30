@@ -41,7 +41,7 @@ It is recommended to use OBS or other video recording/editing software to overla
 ### Telemetry Data
 
 The recording scripts create or append data to the ship.txt and booster.txt files in Ships/Script/data. Each flight is separated by the line **---NEW ATTEMPT---**.
-Render.py in thet folder will render the data in 3D. For rendering customizations, open the file in Notepad or a different editor and scroll down.
+Render.py in that folder will render the data in 3D. For rendering customizations, open the file in Notepad or a different editor and scroll down.
 
 ### Features
 
